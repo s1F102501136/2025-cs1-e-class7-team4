@@ -1,1 +1,24 @@
 .red{color:red}
+body {
+      margin: 0;
+      padding: 0;
+}
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    z-index: 1000; 
+}
+
+.spacer {
+    height: 60px; 
+}
+
+.content {
+    padding: 20px;
+}
