@@ -22,3 +22,39 @@ body {
 .content {
     padding: 20px;
 }
+
+.centerti{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    border: 2px solid #333;
+    padding: 10px 20px; 
+}
+
+.ds{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h2{
+    margin-left: 10px;
+}
+
+table{
+    width: 96%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    margin-left: 24.7px;
+}
+
+th, td{
+    font-size: 20px;       
+    text-align: center;    
+    padding: 20px 15px;     
+    min-width: 180px;     
+    border: 1px solid #333;
+}
+
+th{
+    background-color: #f0f0f0;
+}
