@@ -24,8 +24,10 @@ body {
 }
 
 h1 {
+  color: #0aa; 
   text-align: center;
   margin-bottom: 20px;
+  font-size: 50px;
 }
 
 
@@ -36,9 +38,9 @@ ul {
   margin: 5px 0 15px 40px;
 }
 
-
 li.first {
   font-weight: bold;
+  
 }
 li.feature {
   display: inline-block;
