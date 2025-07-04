@@ -11,31 +11,10 @@
 }
 
 body {
-font-family: "Yu Gothic", "Meiryo", sans-serif;
 color: #222;
 margin: 0;
 padding: 0 10px 30px 10px;
 padding-left: 160px;
-}
-
-
-.menu {
-background-color: #222;
-padding: 8px 0;
-text-align: center;
-margin-bottom: 10px;
-}
-
-.menu a {
-text-decoration: none;
-font-weight: bold;
-color: white;
-margin: 0 12px;
-font-size: 16px;
-}
-
-.menu a:hover {
-text-decoration: underline;
 }
 
 h1 {
