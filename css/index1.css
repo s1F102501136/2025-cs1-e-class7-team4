@@ -35,8 +35,18 @@ body {
     margin-left: 40px;
     margin-right: 40px;
 }
-
+h1 {
+color: #0aa; 
+border-bottom: solid 2px #0aa;
+padding-bottom: 8px;
+margin-top: 15px;
+margin-bottom: 18px;
+}
 h2{
+    color: #035e66;
+    margin-top: 25px;
+    margin-bottom: 8px;
+    font-size: 1.3em;
     margin-left: 10px;
 }
 
